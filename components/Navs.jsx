@@ -9,39 +9,39 @@ const SubNav = ({ setShoes = (the) => console.log(the) }) => {
         const men = [
             {
                 img: "/shoes/1.png",
-                name: "Jorand",
+                name: "Jordan 1",
                 link: "/products",
             },
             {
                 img: "/shoes/2.png",
-                name: "Jorand",
+                name: "Jordan",
                 link: "/products",
             },
             {
                 img: "/shoes/3.png",
-                name: "Jorand",
+                name: "Jordan 3",
                 link: "/products",
             },
             {
                 img: "/shoes/4.png",
-                name: "Jorand",
+                name: "Air Force",
                 link: "/products",
             },
         ];
         const women = [
             {
                 img: "/shoes/5.png",
-                name: "Jorand",
+                name: "Air 1",
                 link: "/products",
             },
             {
                 img: "/shoes/6.png",
-                name: "Jorand",
+                name: "Air Force",
                 link: "/products",
             },
             {
                 img: "/shoes/7.png",
-                name: "Jorand",
+                name: "Jordan",
                 link: "/products",
             },
         ];
