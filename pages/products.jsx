@@ -11,22 +11,22 @@ const Products = () => {
         setShoes([
             {
                 img: "/shoes/1.png",
-                name: "Jorand",
+                name: "Jordan 1",
                 link: "/products",
             },
             {
                 img: "/shoes/2.png",
-                name: "Jorand",
+                name: "Jordan",
                 link: "/products",
             },
             {
                 img: "/shoes/3.png",
-                name: "Jorand",
+                name: "Jordan 3",
                 link: "/products",
             },
             {
                 img: "/shoes/4.png",
-                name: "Jorand",
+                name: "Air Force",
                 link: "/products",
             },
         ]);
