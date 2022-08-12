@@ -35,13 +35,14 @@ module.exports = {
             teal: colors.teal,
             cyan: colors.cyan,
             sky: colors.sky,
-            blue: colors.blue,
+            blue: "#8BBCE7",
             indigo: colors.indigo,
             violet: colors.violet,
             purple: colors.purple,
             fuchsia: colors.fuchsia,
             pink: colors.pink,
             rose: colors.rose,
+            bg: "#F6F6F6",
         }),
         columns: {
             auto: "auto",
@@ -366,7 +367,7 @@ module.exports = {
         },
         fontFamily: {
             sans: [
-                "ui-sans-serif",
+                "Inter",
                 "system-ui",
                 "-apple-system",
                 "BlinkMacSystemFont",
