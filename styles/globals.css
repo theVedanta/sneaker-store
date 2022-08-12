@@ -23,3 +23,6 @@ body {
 .btn {
     @apply px-8 py-2 rounded-full bg-black text-sm text-white uppercase transition-all hover:bg-white hover:text-black;
 }
+.card {
+    width: 30%;
+}
